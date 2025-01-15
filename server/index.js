@@ -46,6 +46,7 @@ const corsOptions = {
     "https://admin.socket.io",
     process.env.FRONTEND_ADDRESS,
     process.env.DEBUG_SERVER,
+    "https://scriptopiacampus.anuragsawant.in"
   ],
   credentials: true,
 };
